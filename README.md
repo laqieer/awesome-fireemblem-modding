@@ -3,13 +3,8 @@ A curated list of awesome Fire Emblem modding resources.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub](https://img.shields.io/github/license/laqieer/awesome-fireemblem-modding) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## Website
-- [FEUniverse](https://feuniverse.us/) (Recommmended)
-- [SF's Fan Projects sub](https://forums.serenesforest.net/index.php?/forum/8-fan-projects/) (Recommmended)
-- [NGの館](https://ngmansion.xyz/) (Recommmended)
-- [まとめWiki2](https://w.atwiki.jp/fekai2/)
-- [火花学园](http://bbs.fireemblem.net/thread.php?fid=12)
-- [fe制造吧](https://tieba.baidu.com/f?ie=utf-8&kw=fe%E5%88%B6%E9%80%A0)
+## Project
+- [Hack Database](https://github.com/laqieer/FE-ROM-Hack-Database)
 
 ## Tutorial
 - [Ultimate Tutorial](http://www.feshrine.net/ultimatetutorial/)
@@ -24,8 +19,18 @@ A curated list of awesome Fire Emblem modding resources.
 - [ASM/DOC](https://www.dropbox.com/sh/zymc1h221nnxpm9/AAAruCnsQf574gY_Yi7s1KP0a?dl=0)
 - [Decomp](https://github.com/FireEmblemUniverse/fireemblem8u)
 - [Animation](https://emblem-anims.herokuapp.com/)
-- [Graphics & Music](https://drive.google.com/drive/folders/1jiiTpNXgAlr4lZBh8d-nJFdO-Jus5VXV)
+- [Graphics](https://github.com/Klokinator/FE-Repo)
+- [Music](https://github.com/Klokinator/FE-Repo-Music)
 - [FE改造うｐろだ4](https://ux.getuploader.com/FE4/)
+
+## Website
+- [FEUniverse](https://feuniverse.us/) (Recommmended)
+- [SF's Fan Projects sub](https://forums.serenesforest.net/index.php?/forum/8-fan-projects/) (Recommmended)
+- [NGの館](https://ngmansion.xyz/) (Recommmended)
+- [まとめWiki2](https://w.atwiki.jp/fekai2/)
+- [火花学园](http://bbs.fireemblem.net/thread.php?fid=12)
+- [fe制造吧](https://tieba.baidu.com/f?ie=utf-8&kw=fe%E5%88%B6%E9%80%A0)
+- [SS的摩达乐园](https://fecosmos.xyz/)
 
 ## Note
 - Fire Emblem modding has a long history and many resources has become outdated as time flies. I only list resources which I think still useful here. Some obsolete resources are not included. Recommended resources are marked.
